@@ -1,0 +1,3 @@
+echo "this is my first program also trying this on jenkins"
+date
+
